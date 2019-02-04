@@ -19,6 +19,8 @@
         </activity>
     </application>
 
+    <meta-data android:name="TINKER_ID" android:value="tinker_id_1"/>
+
 
 
 </manifest>
